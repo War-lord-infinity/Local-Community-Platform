@@ -112,7 +112,7 @@ Stay Informed: Enable notifications for real-time updates on community activitie
 
 # 🌈 Benefits
 
-# 🌟 1. Social Impact
+## 🌟 1. Social Impact
 
 Facilitates stronger connections and trust among neighbors.
 
